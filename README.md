@@ -1,2 +1,2 @@
-# my-website
-my static website
+rahul's website is currently under developent
+
